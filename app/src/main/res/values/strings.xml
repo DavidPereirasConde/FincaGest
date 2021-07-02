@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FincaGest</string>
+    <string name="titulo">FincaGest</string>
+    <string name="verParcela">Ver tus Parcelas</string>
+    <string name="nuevaParcela">Crear nueva parcela</string>
+    <string name="textotTratarQuimicamente">Tratar Quimicamente</string>
+    <string name="textoRecolectar">Recolección</string>
+    <string name="historialRecoleccion">Historial de Recolección</string>
+    <string name="salir">Salir</string>
+    <string name="buttonSeleccionarFecha">Seleccionar día</string>
+    <string name="fechatratamiento">Fecha del ultimo tratamiento insecticida</string>
+    <string name="botonGuardarParcela">Guardar</string>
+    <string name="fresa">fresa</string>
+    <string name="listadatos">Listado de Parcelas</string>
+    <string name="editarParcela">Editar Parcela</string>
+    <string name="guardarCambios">Guardar Cambios</string>
+
+</resources>

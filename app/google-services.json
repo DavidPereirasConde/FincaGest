@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "88280611208",
+    "firebase_url": "https://fincagest-ec1c4-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fincagest-ec1c4",
+    "storage_bucket": "fincagest-ec1c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88280611208:android:50673757db6520fac6223d",
+        "android_client_info": {
+          "package_name": "com.es.fincagest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88280611208-82ftubnn8ef9euh2rsnselvphuc42fls.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.es.fincagest",
+            "certificate_hash": "682752a427199ef5cd6321157372db052307f0be"
+          }
+        },
+        {
+          "client_id": "88280611208-vkf0ic793oo47598ghlp9li4gbqva33r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgPmbTI8xFlraKpdhOntxIZG_jT1TP1uI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88280611208-vkf0ic793oo47598ghlp9li4gbqva33r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
